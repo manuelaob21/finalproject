@@ -1,0 +1,39 @@
+body{
+  background-color:aliceblue;
+}
+div.container {
+  text-align: center;
+}
+ul li {
+    display: inline-block;
+    padding-right: 100px;
+  }
+div.menu{
+  padding-top:10px;
+  padding-bottom: 10px;
+  background-color:lightblue;
+}
+div.title{
+  color: black;
+  font-size:80px;
+}
+div.menu ul li a{
+  color: black;
+  text-decoration: none;
+}
+p.tit{
+  color:red;
+}
+h2.centrar {
+  text-align: center;
+  font-size: 50px;
+}
+h1.agranda{
+font-size:60px;
+}
+h1.alinear{
+  text-align: left;
+}
+p.about{
+  font-size:20px;
+}
